@@ -1,18 +1,35 @@
-
+{
+    
+ Search:
 [
     {
-        "id": 1,
-        "name": "Электрохимия на англ. Яз ",
+        "name": "Электрохимия на англ. Яз",
+        "lessononehours": "30",
+        "lessononerealhours": "10",
+        "lessontwohours": "15",
+        "lessontworealhours": "5",
+        "lessontreehours": "30",
+        "lessontreerealhours": "10",
        
     },
     {
-        "id": 2,
-        "name": "Электрохимия на англ. Яз ",
+        "name": "Иностранный язык C1",
+        "lessononehours": "30",
+        "lessononerealhours": "30",
+        "lessontwohours": "15",
+        "lessontworealhours": "15",
+        "lessontreehours": "30",
+        "lessontreerealhours": "10",
        
     },
     {
-        "id": 3,
-        "name": "Электрохимия на англ. Яз ",
+        "name": "Основы химического анализа",
+        "lessononehours": "30",
+        "lessononerealhours": "10",
+        "lessontwohours": "30",
+        "lessontworealhours": "10",
+      
        
-    },
-]
+    }
+    ]
+}
